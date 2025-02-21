@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate web developer constantly explorin
 - 📫 **Contact Me:** Feel free to reach out at [seweryn.webdev@gmail.com](mailto:seweryn.webdev@gmail.com).
 - 🔗 **My Linkedin:** You can also reach my via Linkedin at [Seweryn Stalinger LD](https://www.linkedin.com/in/seweryn-stalinger-2a31b2297/).
 - 🎓 **GoIT Fullstack Developer Certificate:** [View Certificate](https://github.com/user-attachments/files/17820021/Seweryn.Stalinger.1.pdf)
-- 🎓 **Meta Advanced React:** [View Certificate](https://github.com/Seweryn999/Seweryn999/blob/main/Advanced_React_-_.pdf)
+- 🎓 **Meta Advanced React:** [View Certificate](https://github.com/Seweryn999/Seweryn999/blob/main/Advanced%20React%20-%20Meta.pdf)
 
 ---
 
